@@ -1,4 +1,4 @@
-# Recommendation_sys_algorithm
+# Recommendation_sys_algorithm [Python]
 This Recommendation system algorith, based on Python.
 I have used following libraries while writing the codes.
 
