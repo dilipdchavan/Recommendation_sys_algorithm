@@ -10,5 +10,5 @@ I have used following libraries while writing the codes.
 #from sklearn.feature_extraction.text import TfidfVectorizer  
 #from sklearn.metrics.pairwise import sigmoid_kernel  
 
-We are getting good understing of Recommendation Engine Algorithm.
+This is useful to get the understing of Recommendation Engine Algorithm.
 I will have to work more on this, This is just start :)
